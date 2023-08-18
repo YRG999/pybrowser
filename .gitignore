@@ -1,0 +1,6 @@
+# directories
+_notes/
+venv/
+
+# files
+web_data.txt
